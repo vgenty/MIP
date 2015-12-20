@@ -15,3 +15,5 @@
 *.pcm
 *.swp
 
+*.ipynb
+*Dict*
